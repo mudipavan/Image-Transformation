@@ -162,7 +162,7 @@ plt.show()
 
 
 ### iv)Image Reflection
-![output]()
+![output](https://github.com/mudipavan/Image-Transformation/blob/main/dip%20p5-6.jpg)
 
 
 
